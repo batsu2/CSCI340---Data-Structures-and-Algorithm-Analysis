@@ -1,1 +1,1 @@
-# CSCI340---Data-Structures-and-Algorithm-Analysis
+# CSCI340-Data-Structures-and-Algorithm-Analysis
